@@ -12,7 +12,9 @@ pandas  | 1.1.5 |
 matplotlib  | 3.3.4 |
 
 Gurobi solver 9.1.2 (https://www.gurobi.com/ ) with Academic License.  
+```Bash
 conda install -c gurobi gurobi 
+```
 Development environment: Windows 10  
 Development tool: Pycharm  
 

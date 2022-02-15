@@ -1,0 +1,10 @@
+Ancestor 1 -> P. rhoeas
+fissions: 5	fusions: 4
+Ancestor 1 -> Ancestor 2
+fissions: 11	fusions: 12
+Ancestor 2 -> Ancestor 3
+fissions: 4	fusions: 4
+Ancestor 2 -> P. somniferum
+fissions: 0	fusions: 0
+Ancestor 3 -> P. setigerum
+fissions: 18	fusions: 18

@@ -1,0 +1,6 @@
+Ancestor Brassica -> B. rapa
+fissions: 25	fusions: 24
+Ancestor Brassica -> B. oleracea
+fissions: 27	fusions: 27
+Ancestor Brassica -> B. nigra
+fissions: 70	fusions: 71

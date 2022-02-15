@@ -1,0 +1,18 @@
+preWGD yeast -> N. castellii
+fissions: 53	fusions: 57
+preWGD yeast -> S. cerevisiae
+fissions: 70	fusions: 68
+preWGD yeast -> K. naganishii
+fissions: 62	fusions: 63
+preWGD yeast -> Z. rouxii
+fissions: 62	fusions: 62
+preWGD yeast -> L. kluyveri
+fissions: 21	fusions: 20
+preWGD yeast -> L. waltii
+fissions: 52	fusions: 51
+preWGD yeast -> L. thermotolerans
+fissions: 43	fusions: 42
+preWGD yeast -> E. gossypii
+fissions: 72	fusions: 72
+preWGD yeast -> K. lactis
+fissions: 84	fusions: 85

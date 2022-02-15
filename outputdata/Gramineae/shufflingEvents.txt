@@ -1,0 +1,16 @@
+Ancestor 1 -> O. sativa
+fissions: 1	fusions: 0
+Ancestor 1 -> Ancestor 2
+fissions: 3	fusions: 6
+Ancestor 1 -> Ancestor 3
+fissions: 4	fusions: 5
+Ancestor 2 -> T. elongatum
+fissions: 16	fusions: 17
+Ancestor 2 -> B. distachyon
+fissions: 4	fusions: 7
+Ancestor 3 -> S. bicolorn
+fissions: 1	fusions: 1
+Ancestor 3 -> Ancestor 4
+fissions: 6	fusions: 10
+Ancestor 4 -> Z. mays
+fissions: 22	fusions: 24
